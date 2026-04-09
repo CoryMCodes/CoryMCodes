@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Cory
 
-Bootcamp-trained full-stack developer with 6 years of experience building web apps—mostly in Ruby on Rails. I'm passionate about keeping things fast, clean, and maintainable. I love working at the intersection of backend reliability and frontend clarity.
+Full-stack developer, and Army veteran with 6+ years of experience building web apps, mostly in Ruby on Rails. I'm passionate about keeping things fast, clean, and maintainable. I love working at the intersection of backend reliability and frontend clarity.
 
 ### 🚀 What I Do
 - Build modern Rails apps with Hotwire, Turbo, and Stimulus

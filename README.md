@@ -1,22 +1,22 @@
-# 👋 Hi, I'm Cory
+# Hi, I'm Cory
 
 Full-stack developer, and Army veteran with 6+ years of experience building web apps, mostly in Ruby on Rails. I'm passionate about keeping things fast, clean, and maintainable. I love working at the intersection of backend reliability and frontend clarity.
 
-### 🚀 What I Do
+### What I Do
 - Build modern Rails apps with Hotwire, Turbo, and Stimulus
 - Reach for React when the UI calls for it
 - Live and die by Vim (unapologetically)
 - Explore frontend tools that enhance developer joy
 - Write about clean architecture, performance, and code simplicity
 
-### 🧰 Tools & Tech I Use
+### Tools & Tech I Use
 - Ruby on Rails, Postgres, Sidekiq
-- StimulusJS, Hotwire, Turbo
-- React, Tailwind, esbuild
+- StimulusJS, Hotwire, Turbo, React
+- React, Tailwind, Vite
 - Vim, Tmux, Zsh, Git
 - Docker, Heroku
 
-### 📬 Let’s Connect
+### Let’s Connect
 - Medium: @musickcorym (https://medium.com/@musickcorym)
 - Linkedin: https://www.linkedin.com/in/corymusick
 - Email: cory.musick37@gmail.com

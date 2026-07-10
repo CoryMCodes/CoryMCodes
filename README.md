@@ -1,6 +1,6 @@
 # Hi, I'm Cory
 
-Ruby on Rails engineer, Army veteran, and product-focused developer with 6+ years of experience building operational web applications and internal tooling.
+Ruby on Rails engineer, Army veteran, and product-focused developer with 7+ years of experience building operational web applications and internal tooling.
 
 I enjoy building software that solves real workflow problems — especially systems that need to balance maintainability, performance, and thoughtful user experience. Most of my recent work has focused on Rails applications involving complex state management, background processing, authorization, and modern frontend interactions.
 
